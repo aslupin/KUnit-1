@@ -1,6 +1,11 @@
 {
-  "main.css": "static/css/main.b3bedc6b.css",
-  "main.css.map": "static/css/main.b3bedc6b.css.map",
-  "main.js": "static/js/main.eccb18f6.js",
-  "main.js.map": "static/js/main.eccb18f6.js.map"
+  "main.css": "static/css/main.1fe4525a.css",
+  "main.css.map": "static/css/main.1fe4525a.css.map",
+  "main.js": "static/js/main.8d6c51fb.js",
+  "main.js.map": "static/js/main.8d6c51fb.js.map",
+  "static/media/checklist.svg": "static/media/checklist.1b3c5461.svg",
+  "static/media/heart.svg": "static/media/heart.08926dd3.svg",
+  "static/media/mark-github.svg": "static/media/mark-github.207687a1.svg",
+  "static/media/mortar-board.svg": "static/media/mortar-board.daa0112e.svg",
+  "static/media/tasklist.svg": "static/media/tasklist.c807def4.svg"
 }
