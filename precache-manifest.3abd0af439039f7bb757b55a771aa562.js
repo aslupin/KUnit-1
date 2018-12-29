@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/KUnit/static/media/checklist.1b3c5461.svg"
   },
   {
-    "revision": "833bff51b2b636cc8976",
+    "revision": "82be1bef283cd3dc08b8",
     "url": "/KUnit/static/css/main.1ee6c7e2.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/KUnit/static/media/tasklist.c807def4.svg"
   },
   {
-    "revision": "833bff51b2b636cc8976",
-    "url": "/KUnit/static/js/main.833bff51.chunk.js"
+    "revision": "82be1bef283cd3dc08b8",
+    "url": "/KUnit/static/js/main.82be1bef.chunk.js"
   },
   {
     "revision": "daa0112eebe4b8caa06e2bf36c7f6e42",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/KUnit/static/css/1.9535f2c8.chunk.css"
   },
   {
-    "revision": "7bb507cccea736bd63eb731227a904d6",
+    "revision": "056a82429a3dd11e52b52a5a5bd2afb0",
     "url": "/KUnit/index.html"
   }
 ];
